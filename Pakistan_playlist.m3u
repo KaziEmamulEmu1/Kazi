@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-xMeFnBKRI1kxkUQyZ8L0vDRF-KiwtuCdCLD2LAX9TJUnx6NC2oZScJk&usqp=CAE&s" group-title="Pakistan",9X Jhakkas
 http://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-xMeFnBKRI1kxkUQyZ8L0vDRF-KiwtuCdCLD2LAX9TJUnx6NC2oZScJk&usqp=CAE&s" group-title="Pakistan",9XM
+http://cdn-1.pishow.tv/live/232/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-xMeFnBKRI1kxkUQyZ8L0vDRF-KiwtuCdCLD2LAX9TJUnx6NC2oZScJk&usqp=CAE&s" group-title="Pakistan",ATN BANGLA
 http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
