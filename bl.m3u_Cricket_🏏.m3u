@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Saudia Arabia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Live Quran TV 🎯 📡
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",WAZ TV 🎯 📡Mizanur Rahman Azhari Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Azan TV 🎯 📡
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png" group-title="Cricket 🏏",স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg" group-title="Cricket 🏏",Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
+http://as31.digitalsynapsebd.com:8446/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",TSportss BD
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T Sports HD 🇧🇩
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",T Sports HD 🇧🇩
+https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Star Sports SL 1 🇮🇳
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",STAR SP-1
+http://103.229.254.25:7001/play/a0a0
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🚨Sathiya TV Srilanka 📡📺
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Fancode 2
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Fubo Sports 1 🎯 📡
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Fubo Sports 2 🎯 📡
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",DD SPORTS
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
