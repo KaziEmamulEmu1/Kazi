@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="a" group-title="Test",Football
 https://xyzyalla-shootx-space.000007.mov/?m=29628&lang=ar
+#EXTINF:-1 tvg-logo="a" group-title="Test",three
+http://dlstreams.com/stream/stream-302.php
