@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="WORLD SPORTS",SKY SPORTS ACTION
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7340/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="WORLD SPORTS",SKY SPORTS F1
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7342/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="WORLD SPORTS",SKY SPORTS CRICKET
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7343/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="WORLD SPORTS",SKY SPORTS FOOTBALL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7336/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="WORLD SPORTS",SKY SPORTS GOLF
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7344/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="WORLD SPORTS",SKY SPORTS MAIN EVENT
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7337/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="WORLD SPORTS",SKY SPORTS MIX
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7339/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="WORLD SPORTS",SKY SPORTS NEWS
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7338/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="WORLD SPORTS",SKY SPORTS EPL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7335/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="WORLD SPORTS",SKY SPORTS RACING
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7341/index.m3u8
+#EXTINF:-1 tvg-logo="http://crm.iptvpro.pw/iptv/logo/uk/sky-sports-tennis-uk.png" group-title="WORLD SPORTS",SKY SPORTS TENNIS
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6546/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="WORLD SPORTS",SKY SPORTS+
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS",Sky Sport1 NZ FHD
+http://datahub11.com:80/live/Jen12345/Jen54321/23997..ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
+http://datahub11.com:80/live/Jen12345/Jen54321/23998..ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
+http://datahub11.com:80/live/Jen12345/Jen54321/23999..ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="WORLD SPORTS",Sky Sport4 NZ FHD
+http://datahub11.com:80/live/Jen12345/Jen54321/24000..ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="WORLD SPORTS",Sky Sport5 NZ FHD
+http://datahub11.com:80/live/Jen12345/Jen54321/343019..ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS",Sky Sport6 NZ FHD
+http://datahub11.com:80/live/Jen12345/Jen54321/343020..ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS",Sky Sport7 NZ FHD
+http://datahub11.com:80/live/Jen12345/Jen54321/343021..ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",Sky Sport Premier League FHD
+http://datahub11.com:80/live/Jen12345/Jen54321/343023..ts
