@@ -113,10 +113,6 @@ http://live-stream.amarbanglatv.in:8080/hls/click2tv/index.m3u8
 http://94.136.188.21:8000/live/rctvdemo/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Jaan Bangla
 http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SNB Cinema
-http://103.182.83.246/hls/snbcinema.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",KHABOR BANGLA
-http://103.252.165.39:8086/0.ts
 #EXTINF:-1 tvg-logo="" group-title="",RCTV Sangbad
 http://94.136.188.21:8000/live/rctvsangbad/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",RCTV Rai Bangla
@@ -299,8 +295,6 @@ http://103.180.212.191:3500/live/633.m3u8
 http://103.180.212.191:3500/live/637.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Assam Talks
 http://103.180.212.191:3500/live/675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TIME8
-http://103.180.212.191:3500/live/1432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ND 24
 http://103.180.212.191:3500/live/1733.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Pratham Khabar 24x7
