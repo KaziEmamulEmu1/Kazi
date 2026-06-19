@@ -4,8 +4,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Al Quran Al Kareem
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Al Sunnah Al Nabawiyah
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Al Sunnah Al Nabawiyah
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Medina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
@@ -73,10 +71,6 @@ https://cdn.dtvusa.com/dtv/tracks-v1a1/mono.m3u8
 https://cdn.streamcast.xyz/ctvusa/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CTV Usa
 https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",News21
-http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",News21
-http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Histoire Tv
@@ -267,8 +261,6 @@ http://103.180.212.191:3500/live/1708.m3u8
 http://103.180.212.191:3500/live/1725.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Globe TV
 http://103.180.212.191:3500/live/2188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NK TV Plus
-http://103.180.212.191:3500/live/1757.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Newslive
 http://103.180.212.191:3500/live/613.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",R Bangla
@@ -373,8 +365,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AL Sunnah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",God TV
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Arihant TV
@@ -403,8 +393,6 @@ http://103.175.73.12:8080/live/23/23_0.m3u8
 http://103.175.73.12:8080/live/345/345_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Manoranjan Grend
 http://103.175.73.12:8080/live/19/19_0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Discovery Bangla
